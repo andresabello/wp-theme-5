@@ -1,0 +1,25 @@
+.ac-admin-show {
+	background: #fff;
+	border: 1px solid #ccc;
+	padding: 20px;
+}
+.ac-admin-show h1{
+	margin-bottom: 20px;
+}
+.upload .preview-upload{
+	max-width: 300px; 
+	display: block; 
+	margin: 20px 0;
+}
+.ac-textarea{
+	width: 300px;
+	height: 100px;
+}
+#footer_address{
+	width: 80%;
+	height: 200px;
+}
+#css_value{
+	width: 95%;
+	height: 550px;
+}
